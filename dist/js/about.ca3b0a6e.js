@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(n,t,c){"use strict";c.r(t);var e=c("7a23"),o={class:"about"},u=Object(e["h"])("h1",null,"나의 정보 ",-1);function a(n,t){return Object(e["q"])(),Object(e["d"])("div",o,[u])}const s={};s.render=a;t["default"]=s}}]);
+//# sourceMappingURL=about.ca3b0a6e.js.map
